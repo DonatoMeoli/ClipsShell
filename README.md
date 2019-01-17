@@ -2,6 +2,7 @@
 
 This code provides handy CLIPS shell through Python using [PyCLIPS](http://pyclips.sourceforge.net/web/): an 
 extension module for the Python language that embeds full CLIPS functionality in Python applications. 
+Since it uses basic Python I/O it can be used from within IDLE: this allows to take advantage of IDLE's editing capabilities.
 
 ## Prerequisites
 
